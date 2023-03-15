@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c6da93a8.css",
+    "main.js": "/static/js/main.0666407b.js",
+    "static/media/pexels-lukas-349609.jpg": "/static/media/pexels-lukas-349609.ce1decddb69fa3fabdbc.jpg",
+    "static/media/Repet-backround.png": "/static/media/Repet-backround.8de79fee29a426376cc6.png",
+    "static/media/spinner.gif": "/static/media/spinner.2a6af025f22d994e8a45.gif",
+    "index.html": "/index.html",
+    "main.c6da93a8.css.map": "/static/css/main.c6da93a8.css.map",
+    "main.0666407b.js.map": "/static/js/main.0666407b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6da93a8.css",
+    "static/js/main.0666407b.js"
+  ]
+}

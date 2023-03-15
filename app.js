@@ -9,7 +9,7 @@ const path = require('path');
 
 // connect MongoDB
 mongoose.connect(
-  `mongodb+srv://${process.env.MONGO_USERNAME}:${env.MONGO_PASSWORD}@firstproject.s806d2l.mongodb.net/?retryWrites=true&w=majority`,
+  `mongodb+srv://${process.env.MONGO_USERNAME}:${process.env.MONGO_PASSWORD}@firstproject.s806d2l.mongodb.net/?retryWrites=true&w=majority`,
   {
     useNewUrlParser: true,
     useUnifiedTopology: true,
