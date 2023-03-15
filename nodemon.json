@@ -1,0 +1,7 @@
+{
+  "env": {
+    "MONGO_USERNAME": "morandeporto",
+    "MONGO_PASSWORD": "Moran123456",
+    "SECUREKEY": "RandomKeyForSecurity"
+  }
+}
